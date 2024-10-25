@@ -1,0 +1,133 @@
+2024-10-25 09:41:33 [main] ERROR Horse - Name is null
+2024-10-25 09:50:08 [main] INFO  Horse - Horse created Name: Bucephalus Speed: 2.4
+2024-10-25 09:50:08 [main] INFO  Horse - Horse created Name: Ace of Spades Speed: 2.5
+2024-10-25 09:50:08 [main] INFO  Horse - Horse created Name: Zephyr Speed: 2.6
+2024-10-25 09:50:08 [main] INFO  Horse - Horse created Name: Blaze Speed: 2.7
+2024-10-25 09:50:08 [main] INFO  Horse - Horse created Name: Lobster Speed: 2.8
+2024-10-25 09:50:08 [main] INFO  Horse - Horse created Name: Pegasus Speed: 2.9
+2024-10-25 09:50:08 [main] INFO  Horse - Horse created Name: Cherry Speed: 3.0
+2024-10-25 09:50:08 [main] INFO  Main - Початок скачків кількість учасників: 7
+2024-10-25 09:50:28 [main] INFO  Main - Завершення скачків переможець: Pegasus
+2024-10-25 09:50:48 [main] ERROR Horse - Name is null
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Name is blank
+2024-10-25 09:50:49 [main] ERROR Horse - Distance is negative
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:50:49 [main] ERROR Horse - Speed is negative
+2024-10-25 09:51:40 [main] INFO  Horse - Horse created Name: Bucephalus Speed: 2.4
+2024-10-25 09:51:40 [main] INFO  Horse - Horse created Name: Ace of Spades Speed: 2.5
+2024-10-25 09:51:40 [main] INFO  Horse - Horse created Name: Zephyr Speed: 2.6
+2024-10-25 09:51:40 [main] INFO  Horse - Horse created Name: Blaze Speed: 2.7
+2024-10-25 09:51:40 [main] INFO  Horse - Horse created Name: Lobster Speed: 2.8
+2024-10-25 09:51:40 [main] INFO  Horse - Horse created Name: Pegasus Speed: 2.9
+2024-10-25 09:51:40 [main] INFO  Horse - Horse created Name: Cherry Speed: 3.0
+2024-10-25 09:51:40 [main] INFO  Main - Початок скачків кількість учасників: 7
+2024-10-25 09:52:00 [main] INFO  Main - Завершення скачків переможець: Cherry
+2024-10-25 09:56:05 [main] INFO  Horse - Horse created Name: Bucephalus Speed: 2.4
+2024-10-25 09:56:05 [main] INFO  Horse - Horse created Name: Ace of Spades Speed: 2.5
+2024-10-25 09:56:05 [main] INFO  Horse - Horse created Name: Zephyr Speed: 2.6
+2024-10-25 09:56:05 [main] INFO  Horse - Horse created Name: Blaze Speed: 2.7
+2024-10-25 09:56:05 [main] INFO  Horse - Horse created Name: Lobster Speed: 2.8
+2024-10-25 09:56:05 [main] INFO  Horse - Horse created Name: Pegasus Speed: 2.9
+2024-10-25 09:56:05 [main] INFO  Horse - Horse created Name: Cherry Speed: 3.0
+2024-10-25 09:56:05 [main] INFO  Main - Початок скачків кількість учасників: 7
+2024-10-25 09:56:25 [main] INFO  Main - Завершення скачків переможець: Cherry
+2024-10-25 09:56:37 [main] INFO  Horse - Horse created Name: horse1 Speed: 1.0
+2024-10-25 09:56:37 [main] INFO  Horse - Horse created Name: horse2 Speed: 2.0
+2024-10-25 09:56:37 [main] INFO  Horse - Horse created Name: horse3 Speed: 3.0
+2024-10-25 09:56:37 [main] INFO  Horse - Horse created Name: horse4 Speed: 3.0
+2024-10-25 09:56:37 [main] INFO  Horse - Horse created Name: horse5 Speed: 4.0
+2024-10-25 09:56:37 [main] INFO  Horse - Horse created Name: horse6 Speed: 5.0
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: horse1 Speed: 1.0
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: horse2 Speed: 2.0
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: horse3 Speed: 3.0
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: horse4 Speed: 3.0
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: horse5 Speed: 4.0
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: horse6 Speed: 5.0
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse0 Speed: 0.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse1 Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse2 Speed: 2.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse3 Speed: 3.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse4 Speed: 4.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse5 Speed: 5.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse6 Speed: 6.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse7 Speed: 7.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse8 Speed: 8.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse9 Speed: 9.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse10 Speed: 10.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse11 Speed: 11.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse12 Speed: 12.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse13 Speed: 13.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse14 Speed: 14.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse15 Speed: 15.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse16 Speed: 16.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse17 Speed: 17.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse18 Speed: 18.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse19 Speed: 19.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse20 Speed: 20.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse21 Speed: 21.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse22 Speed: 22.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse23 Speed: 23.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse24 Speed: 24.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse25 Speed: 25.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse26 Speed: 26.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse27 Speed: 27.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse28 Speed: 28.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Horse29 Speed: 29.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Name is blank
+2024-10-25 09:56:57 [main] ERROR Horse - Distance is negative
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] ERROR Horse - Name is null
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 09:56:57 [main] ERROR Horse - Speed is negative
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:11:07 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:17 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
+2024-10-25 10:24:25 [main] INFO  Horse - Horse created Name: Default Speed: 1.1
